@@ -98,3 +98,4 @@ Financial-Data-Trends-Dashboard/
 ## Rishit Verma
 
 Aspiring Data Analyst & Business Intelligence Enthusiast 🚀
+https://www.linkedin.com/in/rishitvermaa
